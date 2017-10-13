@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5" uniqueCount="5"><si><t>Cash</t></si><si><t>Profit</t></si><si><t>May</t></si><si><t>June</t></si><si><t>July</t></si></sst>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="3" uniqueCount="3"><si><t>Profit</t></si><si><t>Bitcoin</t></si><si><t>Cashflow</t></si></sst>
